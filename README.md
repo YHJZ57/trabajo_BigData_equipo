@@ -9,7 +9,7 @@ La página web de la asignatura puede verse aquí: <https://perezp44.github.io/i
 
 
 <!-- En la linea de abajo HAS de SUSTITUIR "perezp44" por tu usuario de Github-->
-La versión final del trabajo puede visualizarse en: <[https://yhjz57.github.io/trabajo_BigData_equipo/]>. 
+La versión final del trabajo puede visualizarse en: <https://yhjz57.github.io/trabajo_BigData_equipo/>. 
 
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... 
@@ -20,5 +20,6 @@ El autor del trabajo soy yo, Yutao Henry Jiang Zheng (yujiangz@alumni.uv.es), Lu
 El título del trabajo es el tráfico marítimo de Colombia
 
 En el trabajo hago un analisis sobre el trasporte maritimo en Colombia, su composicion y los componestes que lo forman. 
+
 
 
